@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 110" fill="none">
+  <!-- Five Ascending Slanted Rounded Bars Emblem -->
+  <!-- Authentic official layout: 1st bar (leftmost) is ORANGE, following 4 bars are DEEP GREEN -->
+  <g transform="translate(42, 6) skewX(-18)">
+    <!-- Bar 1 (Leftmost, Shortest): Warm Orange #E8751A -->
+    <rect x="0" y="30" width="10" height="36" rx="5" fill="#E8751A" />
+    
+    <!-- Bar 2: Deep Forest Green #0F3D2E -->
+    <rect x="15" y="22" width="10" height="44" rx="5" fill="#0F3D2E" />
+    
+    <!-- Bar 3: Deep Forest Green #0F3D2E -->
+    <rect x="30" y="14" width="10" height="52" rx="5" fill="#0F3D2E" />
+    
+    <!-- Bar 4: Deep Forest Green #0F3D2E -->
+    <rect x="45" y="6" width="10" height="60" rx="5" fill="#0F3D2E" />
+    
+    <!-- Bar 5 (Rightmost, Tallest): Deep Forest Green #0F3D2E -->
+    <rect x="60" y="0" width="10" height="66" rx="5" fill="#0F3D2E" />
+  </g>
+
+  <!-- Corporate Typography (Centered with Emblem) -->
+  <text x="75" y="88" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="800" font-size="19" letter-spacing="0.04em" fill="#0F3D2E">
+    FIVE VENTURES GROUP
+  </text>
+  
+  <!-- Official French Tagline -->
+  <text x="75" y="103" text-anchor="middle" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="500" font-size="9" letter-spacing="0.02em" fill="#1b4d3b">
+    Votre partenaire pour un avenir durable
+  </text>
+</svg>

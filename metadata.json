@@ -1,0 +1,6 @@
+{
+  "name": "Five Ventures Group - Yaoundé, Cameroun",
+  "description": "Portail web officiel de Five Ventures Group : Prestations de services, Commerce général, Import-Export et BTP à Yaoundé, Cameroun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
